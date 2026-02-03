@@ -1,0 +1,1 @@
+# qtglobal_test
